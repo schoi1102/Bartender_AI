@@ -30,7 +30,7 @@ export default function Main() {
       <form action={addIngredient} className="add-ingredient-form">
         <input
           type="text"
-          placeholder="e.g. oregano"
+          placeholder="e.g. Tequila"
           aria-label="Add ingredient"
           name="ingredient"
         />
